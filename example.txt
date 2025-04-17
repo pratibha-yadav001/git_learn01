@@ -1,1 +1,3 @@
 hello world i am pratibha.
+i am learning git from my friend.
+who is too arogent .
